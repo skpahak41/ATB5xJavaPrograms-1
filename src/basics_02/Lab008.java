@@ -1,6 +1,6 @@
 package src.basics_02;
 
-public class Lab008 {
+public class Lab008P {
     public static void main(String[] args) {
 //        int number = 9;
 //        System.out.printf("%d*1=%d*1",number,2);
